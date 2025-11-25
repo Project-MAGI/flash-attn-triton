@@ -15,7 +15,6 @@ Extra Credits:
 
 import pytest
 import torch
-import triton.tools.experimental_descriptor
 
 import triton
 import triton.language as tl
